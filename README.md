@@ -20,7 +20,6 @@ I'm a self-taught developer with a keen interest in front-end technologies. I sp
   - Smooth scrolling
 - **Live Demo:** [https://myportfolio-lh65.vercel.app/](https://myportfolio-lh65.vercel.app/)
 
-*(Add more projects here as you build them)*
 
 ## 📬 Contact Me
 
